@@ -1,4 +1,4 @@
-(defproject jobim-figwheel "0.1.0"
+(defproject org.clojars.mysterysal/jobim-figwheel "0.1.0"
   :description "jobim test helper"
   :url "https://github.com/MysteryMachine/jobim-figwheel"
   :license {:name "Eclipse Public License"
