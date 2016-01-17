@@ -1,6 +1,6 @@
 (defproject jobim-figwheel "0.1.0"
   :description "jobim test helper"
-  :url ""
+  :url "https://github.com/MysteryMachine/jobim-figwheel"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
 
