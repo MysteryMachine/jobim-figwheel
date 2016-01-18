@@ -1,5 +1,7 @@
 ## jobim-figwheel
 
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.mysterysal/jobim-figwheel.svg)](https://clojars.org/org.clojars.mysterysal/jobim-figwheel)
+
 This library is quite literally lifted off of one Bruce Hauman's examples for how
 one could use Figwheel. This bit of code is just here to cleanly provide
 a place that a person could reference his code. No credit is due to me at all, other
